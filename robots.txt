@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pfuii.github.io/hgr/sitemap.hgr.gz
